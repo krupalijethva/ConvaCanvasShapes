@@ -1,0 +1,45 @@
+#contextmenu-node {
+	background: #F9F9F9;
+	box-shadow: 3px 3px 2px #E9E9E9;
+	border-radius: 4px;
+	line-height: 1.42857;
+	position: fixed;
+	list-style: none;
+	margin: 0px;
+	margin-top: 4px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 3px;
+	font-size: 17px;
+	color: #333333;
+	width: 150px;
+	border: 1px solid #B2B2B2;
+}
+.contextmenu-item {
+	margin: 0.5em;
+	/* padding-left: 0.5em; */
+	padding: 3px;
+	padding-left: 10px;
+}
+
+.contextmenu-item:hover {
+	color: white;
+	background: #284570;
+	border-radius: 2px;
+}
+
+hr {
+	width: 85%;
+	background-color: #E4E4E4;
+	border-color: #E4E4E4;
+	color: #E4E4E4;
+}
+#cntnr {
+	line-height: 1.42857;
+	display: none;
+	border: 1px solid #B2B2B2;
+	width: 150px;
+	background: #F9F9F9;
+	box-shadow: 3px 3px 2px #E9E9E9;
+	border-radius: 4px;
+}
